@@ -30,18 +30,3 @@ Repitori ini berisi kumpulan penyelesaian tugas pemrograman menggunakan **TypeSc
    - Menemukan atau memvalidasi deretan bilangan prima yang berkaitan dengan komponen NIM.
 
 ---
-
-## ⚙️ Persyaratan Sistem
-
-Pastikan perangkat Anda sudah terinstal:
-- [Node.js](https://nodejs.org/) (Versi LTS direkomendasikan)
-- TypeScript Compiler (`tsc`) atau `ts-node` untuk menjalankan kode secara langsung.
-
----
-
-## 🚀 Cara Menjalankan Program
-
-1. **Clone atau unduh** repositori ini ke komputer Anda.
-2. **Instal dependensi** (jika ada konfigurasi tambahan):
-   ```bash
-   npm install
